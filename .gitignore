@@ -4,3 +4,4 @@ venv
 multi_modal_rag.ipynb
 ai-pdf-reader.html
 __pycache__
+previous_version.py
